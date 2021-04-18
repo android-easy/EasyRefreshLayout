@@ -1,0 +1,5 @@
+include ':EasyRefreshLayout'
+include ':app'
+include ':easylibrary'
+
+rootProject.name = "EasyRefreshLayoutDemo"

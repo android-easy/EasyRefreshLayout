@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EasyRefreshLayout">
+        <attr name="header" format="reference"/>
+        <attr name="footer" format="reference"/>
+        <attr name="refreshenabled" format="boolean"></attr>
+        <attr name="loadMoreEnabled" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
